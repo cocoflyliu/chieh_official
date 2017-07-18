@@ -72,7 +72,7 @@ a:hover {
 .bg-light-gray {
     background-color: #eee;
     font-size: 15px;
-    width: 100%;
+   
 }
 .bg-dark-gray {
     background-color: #bfb7b7;
@@ -1094,6 +1094,7 @@ word-break: break-all;
 
 .service_title{
     padding-left: 20%;
+    padding-right: 10%;
 }
 /*
 .service_content1{
