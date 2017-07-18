@@ -72,6 +72,7 @@ a:hover {
 .bg-light-gray {
     background-color: #eee;
     font-size: 15px;
+    width: 100%;
 }
 .bg-dark-gray {
     background-color: #bfb7b7;
@@ -334,7 +335,7 @@ section h3.section-subheading {
 }
 
 section {
-    padding: 10px 0
+    padding: 10px 0;
 }
 
 section h2.section-heading {
@@ -356,6 +357,7 @@ section h3.section-subheading {
         padding: 15px 0
     }
 }
+
 
 
 .service-heading {
