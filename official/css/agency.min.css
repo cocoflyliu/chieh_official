@@ -1075,7 +1075,16 @@ word-break: break-all;
 .rwd-table td {
 　padding: 1em !important;
 }
+   
 }
+@media (max-width: 768px) {
+
+    .img_phone{
+        width: 100vw;
+    }
+}
+
+
 
 
 
@@ -1467,3 +1476,6 @@ left: -1px; top: 100%;
 .qr img{
     width: 200px;
 }
+
+
+
