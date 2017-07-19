@@ -35,10 +35,4 @@
 })(jQuery); // End of use strict
 
 
-   $(function(){
-// 點按圖示時
-$("button").click(function(){
- // 展開 / 收起選單
- $("ul").slideToggle(200);
-});
-});
+ 
