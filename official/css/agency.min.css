@@ -1467,8 +1467,8 @@ left: -1px; top: 100%;
 @media (max-width: 768px) {
     
     .img_display img {
-    width:80px;
-    margin: 0px  0px;
+    width:100px;
+    margin: 5px  2px;
 }
 
     .hone{
@@ -1488,6 +1488,8 @@ left: -1px; top: 100%;
     }
     
 }
+/*
 .menu4{
-    height: 20px;
+    height: 10px;
 }
+*/
