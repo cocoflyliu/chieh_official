@@ -1098,7 +1098,7 @@ word-break: break-all;
 }
 */
 .row.title {
-	padding: 0 20px;
+	padding: 0 0;
 }
 
 .intro-tables {
@@ -1219,9 +1219,7 @@ word-break: break-all;
 header .container {
 	height: 100%;
 }
-.row.title {
-	padding: 0 20px;
-}
+
 __________________________________________
 .owl-carousel .owl-wrapper:after {
   content: ".";
@@ -1467,8 +1465,9 @@ left: -1px; top: 100%;
 @media (max-width: 768px) {
     
     .img_display img {
-    width:150px;
+    height:150px;
     margin: 5px  2px;
+        
 }
 
    
