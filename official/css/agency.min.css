@@ -268,7 +268,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 header {
-    background-image: url(../img/chieh_2.jpg);
+    background-image: url(../img/index_fixed/chieh_2.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -1430,7 +1430,7 @@ left: -1px; top: 100%;
 
 .img_display img {
     
-    width: 150px;
+    width: 230px;
     margin: 0px  0px;
 }
 
@@ -1466,8 +1466,8 @@ left: -1px; top: 100%;
     
     .img_display img {
 /*    height:150px;*/
-    margin: 5px  2px;
-        width: 25vw;
+border:1px 1px;
+        width: 33vw;
         
         
         
