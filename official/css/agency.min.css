@@ -1465,24 +1465,29 @@ left: -1px; top: 100%;
 @media (max-width: 768px) {
     
     .img_display img {
-    height:150px;
+/*    height:150px;*/
     margin: 5px  2px;
+        width: 25vw;
+        
+        
         
 }
 
-   
-    
-    .img_display  {
+     .img_display  {
    
     width: 100vw;
    
 }
+
 .menu2{
     display: none;
 }
     .menu3{
         display: block;
     }
+.img_phone{
+    width: 100vw;
+}
     
 }
 /*
@@ -1490,3 +1495,4 @@ left: -1px; top: 100%;
     height: 10px;
 }
 */
+
