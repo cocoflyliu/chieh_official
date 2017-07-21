@@ -1,0 +1,20 @@
+男M女F
+後背包 backpack
+公事包 briefcase
+斜背包 crossbg
+托特包 tote
+腰包 waistbg
+皮夾 wallet
+鑰匙包、零錢包 purse_keybg
+配件 accessory
+側背包 sidebg
+手提包 handbg
+
+時尚大方包fashion_b_bg
+時尚小包fashion_s_bg
+水桶包 bucketbg
+水餃包 hobobg
+編織包 wovenbg
+波士頓 bostonbg
+空氣包 airbg
+
